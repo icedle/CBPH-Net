@@ -55,7 +55,7 @@ Please see val.py
 
 We give an example
 
-![results](https://github.com/icedle/CBPH-Net/blob/main/imgs/results.png)
+![results](https://github.com/icedle/CBPH-Net/blob/main/imgs/results.jpg)
 
 ### Dataset
 
