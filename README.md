@@ -55,12 +55,12 @@ Please see val.py
 
 We give an example
 
-![results](imgs\results.jpg)
+![results](https://github.com/icedle/CBPH-Net/blob/main/imgs/results.png)
 
 ### Dataset
 
 The dataset format is VOC (.xml). You can use to convert it to COCO(.json) or TXT format. We already provide a script to transfer  xml format to txt format (Please see prepare_data.py).
 
-![datasets](imgs\datasets.png)
+![datasets](https://github.com/icedle/CBPH-Net/blob/main/imgs/datasets.png)
 
 ### Performance
